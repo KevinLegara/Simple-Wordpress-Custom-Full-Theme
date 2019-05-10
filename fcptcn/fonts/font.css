@@ -1,0 +1,9 @@
+@font-face {
+
+  font-family: LatoRegular;
+
+  src: url('lato/Lato-Regular.ttf')  format('truetype');
+
+}
+
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
